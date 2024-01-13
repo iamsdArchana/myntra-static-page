@@ -1,0 +1,15 @@
+Planning.
+
+Header
+    logo
+    navbar
+    cart
+
+Body
+    banner
+    coupon-section
+    deals-section
+    shop-section
+
+Footer
+    Only 4 column
